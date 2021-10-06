@@ -1,0 +1,4 @@
+/target
+libfoo/.clangd/*
+libfoo/build/*
+libfoo/compile_commands.json
